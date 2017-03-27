@@ -13,6 +13,8 @@ public class EntryPoint {
         superMen.add(new losev());
         superMen.add(new losev());
         //Hey
+       superMen.add(new losev());
+       superMen.add(new LiffClass());
         
         
         for (Object o: superMen)
