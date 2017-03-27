@@ -10,9 +10,12 @@ public class EntryPoint {
         superMen.add(new SuperClass());
         superMen.add(new MegaFafnik());
         superMen.add(new SuperYisroel());
+        superMen.add(new losev());
+        superMen.add(new losev());
         superMen.add(new Super_Rafi());
-        superMen.add(new losev());
-        superMen.add(new losev());
+        
+        
+        //Hey
        superMen.add(new losev());
        superMen.add(new LiffClass());
         
