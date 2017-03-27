@@ -1,20 +1,22 @@
 package mco364;
 
+import java.util.ArrayList;
+
 public class EntryPoint {
 
     public static void main(String[] args) {
-        System.out.println("Dr. Robinson");
-        System.out.println("Yisroel Perton");
-        System.out.println("Reuven Markov");
-        System.out.println("Edon Freiner");
-        System.out.println("Yehuda Gruen");
-        System.out.println("Yaakov Liff");
-        System.out.println("Rafi Abrahamson");
-        System.out.println("Dirty Bit");
-        System.out.println("just pushed ");
-        System.out.println("And problem child");
-        System.out.println("just pushed");
-        System.out.println("Moshe Losev");
+        ArrayList<SuperClass> superMen = new ArrayList<>();
+        
+        superMen.add(new SuperClass());
+        superMen.add(new Markov());
+        superMen.add(new SuperYisroel());
+        
+        
+        for (Object o: superMen)
+        {
+            System.out.println(o);
+        }
+
         
     }
 }
