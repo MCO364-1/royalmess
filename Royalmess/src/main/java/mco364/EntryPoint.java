@@ -13,6 +13,5 @@ public class EntryPoint {
         System.out.println("Rafi Abrahamson");
         System.out.println("Edon Freiner");
         System.out.println("Dirty Bit");
-        System.out.println("Yaakov Liff");
     }
 }
