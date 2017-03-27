@@ -8,5 +8,6 @@ public class EntryPoint {
         System.out.println("Yisroel Perton");
         System.out.println("Reuven Markov");
         System.out.println("Rafi Abrahamson");
+        System.out.println("Edon Freiner");
     }
 }
