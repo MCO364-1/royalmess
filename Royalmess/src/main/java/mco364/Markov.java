@@ -10,5 +10,8 @@ package mco364;
  * @author rmarkov
  */
 public class Markov extends SuperClass{
-    
+    @Override
+    public String toString() {
+        return "Death to Mother Russia";
+    }
 }
