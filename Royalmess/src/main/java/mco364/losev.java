@@ -12,7 +12,6 @@ package mco364;
 public class losev extends SuperClass {
     @Override
     public String toString() {
-        String str = "whats up kido";
-        return str;
+        return "whats up kido";
     }
 }
