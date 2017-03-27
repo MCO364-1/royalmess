@@ -13,7 +13,8 @@ public class DoviCohen extends SuperClass{
 
     @Override
     public String toString() {
-        return "its a bird....its a plane.... its Dovi Cohen extends SuperClass";
+        System.out.println("its a bird....its a plane.... its Dovi Cohen extends SuperClass");
+        throw new StackOverflowError("Dovi is to awesome to print");
     }
     
 }
