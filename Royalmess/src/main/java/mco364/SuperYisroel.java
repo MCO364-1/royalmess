@@ -12,6 +12,6 @@ package mco364;
 public class SuperYisroel extends SuperClass{
     @Override
     public String toString() {
-        return "Up up and away, oh what a special day, Super Yisroel did something pretty cool...";
+        return "Up up and away, oh what a special day, Super Yisroel has invented something you have never seen....";
     }
 }
