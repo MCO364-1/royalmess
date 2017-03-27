@@ -11,6 +11,7 @@ public class EntryPoint {
         superMen.add(new MegaFafnik());
         superMen.add(new SuperYisroel());
         superMen.add(new losev());
+        superMen.add(new losev());
         
         
         for (Object o: superMen)
