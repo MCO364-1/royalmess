@@ -7,12 +7,13 @@ package mco364;
 
 /**
  *
- * @author Mark
+ * @author dcohen24
  */
-public class losev extends SuperClass {
+public class DoviCohen extends SuperClass{
+
     @Override
     public String toString() {
-        String str = "whats up kido";
-        return str;
+        return "its a bird....its a plane.... its Dovi Cohen extends SuperClass";
     }
+    
 }
