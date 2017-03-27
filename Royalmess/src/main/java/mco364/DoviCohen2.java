@@ -9,7 +9,7 @@ package mco364;
  *
  * @author dcohen24
  */
-public class DoviCohen extends SuperClass{
+public class DoviCohen2 extends SuperClass{
 
     @Override
     public String toString() {
