@@ -10,6 +10,7 @@ public class EntryPoint {
         superMen.add(new SuperClass());
         superMen.add(new Markov());
         superMen.add(new SuperYisroel());
+        superMen.add(new losev());
         
         
         for (Object o: superMen)
