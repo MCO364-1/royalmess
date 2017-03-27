@@ -8,7 +8,7 @@ public class EntryPoint {
         ArrayList<SuperClass> superMen = new ArrayList<>();
         
         superMen.add(new SuperClass());
-        superMen.add(new Markov());
+        superMen.add(new MegaFafnik());
         superMen.add(new SuperYisroel());
       //  superMen.add(new losev());
         
