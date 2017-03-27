@@ -7,11 +7,11 @@ package mco364;
 
 /**
  *
- * @author yperton
+ * @author Mark
  */
-public class SuperYisroel extends SuperClass{
+public class losev extends SuperClass {
     @Override
     public String toString() {
-        return "Up up and away, oh what a special day, Super Yisroel did something pretty cool...";
+        return "whats up kido";
     }
 }
