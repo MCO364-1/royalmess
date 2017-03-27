@@ -11,4 +11,8 @@ package mco364;
  */
 public class YehudaGruen extends SuperClass {
     
+    @Override
+    public String toString(){
+        return "Yehuda Gruen";
+    }
 }
