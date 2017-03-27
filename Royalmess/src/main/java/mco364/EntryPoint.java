@@ -13,7 +13,5 @@ public class EntryPoint {
         System.out.println("just pushed ");
         System.out.println("Moshe Losev");
         
-        
-        dsf
     }
 }
