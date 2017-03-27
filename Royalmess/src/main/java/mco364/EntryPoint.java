@@ -12,6 +12,10 @@ public class EntryPoint {
         superMen.add(new SuperYisroel());
         superMen.add(new losev());
         superMen.add(new losev());
+        superMen.add(new Super_Rafi());
+        
+        
+        //Hey
         //Hey Markov!
         superMen.add(new losev());
         superMen.add(new LiffClass());
